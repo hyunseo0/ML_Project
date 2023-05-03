@@ -22,9 +22,7 @@ This data set contains Podcast episodes published between 2007 and 2016. In this
 ![image](https://user-images.githubusercontent.com/71868763/235979067-8e2a9bcf-d908-4412-939f-9ab512498654.png)
 
 
-2. Modeling
-
-<br/>Content Based Filtering
+2. Modeling<br/>Content Based Filtering
   - K-modes
   - W2V
   - TF-IDF
