@@ -17,13 +17,12 @@ Podcasts Episodes (2007-2016) | Kaggle
 ![image](https://user-images.githubusercontent.com/71868763/235979193-069365f3-1aeb-439f-adf5-2c17175a06cb.png)
 
 This data set contains Podcast episodes published between 2007 and 2016. In this dataset, we will find over 30,000 episodes of several different podcasts shows.
-![Uploading image.png…]()
 
 ![image](https://user-images.githubusercontent.com/71868763/235979013-e9863c1c-8e04-449e-a9c8-6ed26e0c1ffd.png)
 ![image](https://user-images.githubusercontent.com/71868763/235979067-8e2a9bcf-d908-4412-939f-9ab512498654.png)
 
 
-2. Modeling
+2. Modeling\n
   Content Based Filtering
     - K-modes
     - W2V
