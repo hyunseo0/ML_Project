@@ -1,2 +1,3 @@
 # recommendation_system
-recommendation system for potcast
+recommendation system for podcast
+
