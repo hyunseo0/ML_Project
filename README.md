@@ -28,7 +28,7 @@ This data set contains Podcast episodes published between 2007 and 2016. In this
   - W2V
   - TF-IDF
 
-Collaborative Filtering
+<br/>Collaborative Filtering
    - SVD & Matrix Factorization
 
 3. Model Evaluation and Analysis
