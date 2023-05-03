@@ -24,12 +24,12 @@ This data set contains Podcast episodes published between 2007 and 2016. In this
 
 
 2. Modeling
-Content Based Filtering
-  - K-modes
-  - W2V
-  - TF-IDF
+  Content Based Filtering
+    - K-modes
+    - W2V
+    - TF-IDF
 
-Collaborative Filtering
-  - SVD & Matrix Factorization
+  Collaborative Filtering
+    - SVD & Matrix Factorization
 
 3. Model Evaluation and Analysis
