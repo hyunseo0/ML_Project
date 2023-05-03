@@ -28,8 +28,8 @@ This data set contains Podcast episodes published between 2007 and 2016. In this
   - K-modes
   - W2V
   - TF-IDF
-
 <br/>Collaborative Filtering
    - SVD & Matrix Factorization
+
 
 3. Model Evaluation and Analysis
